@@ -26,7 +26,7 @@ const SCHEDULE_DATA = [
     sport: "box",
     title: "Boks dame",
     sub: "Ženska skupina",
-    coach: "Tomislav Šude",
+    coach: "Anita Krapež",
     level: "Vsi nivoji",
     location: "Ring dvorana"
   },
@@ -107,7 +107,7 @@ const SCHEDULE_DATA = [
     sport: "box",
     title: "Boks dame",
     sub: "Ženska skupina",
-    coach: "Tomislav Šude",
+    coach: "Anita Krapež",
     level: "Vsi nivoji",
     location: "Ring dvorana"
   },
