@@ -38,7 +38,7 @@ const SCHEDULE_DATA = [
     title: "Boks",
     sub: "Tehnika in kondicija",
     coach: "Tomislav Šude",
-    level: "Začetniki & nadaljevalci",
+    level: "Vsi nivoji",
     location: "Glavna dvorana"
   },
   {
@@ -84,7 +84,7 @@ const SCHEDULE_DATA = [
     title: "BJJ (Brazilski Jiu-Jitsu)",
     sub: "No-Gi grappling & parter",
     coach: "Žiga Očko",
-    level: "Začetniki & napredni",
+    level: "Vsi nivoji",
     location: "Tatami dvorana"
   },
 
@@ -130,7 +130,7 @@ const SCHEDULE_DATA = [
     title: "MMA",
     sub: "Rokoborba & prehodi ob kletki",
     coach: "Gašper Sodnik",
-    level: "Vsi nivoji",
+    level: "Nadaljevalci & tekmovalci",
     location: "Glavna dvorana"
   },
 
@@ -143,7 +143,7 @@ const SCHEDULE_DATA = [
     title: "Muay Thai za MMA",
     sub: "Tajski boks, klinč in udarci",
     coach: "Luka Martinec",
-    level: "Začetniki & nadaljevalci",
+    level: "Vsi nivoji",
     location: "Glavna dvorana"
   },
   {
@@ -165,7 +165,7 @@ const SCHEDULE_DATA = [
     title: "BJJ (Brazilski Jiu-Jitsu)",
     sub: "No-Gi tehnika & sparing (rolanje)",
     coach: "Žiga Očko",
-    level: "Začetniki & napredni",
+    level: "Vsi nivoji",
     location: "Tatami dvorana"
   },
 
@@ -200,7 +200,7 @@ const SCHEDULE_DATA = [
     title: "BJJ (Brazilski Jiu-Jitsu)",
     sub: "No-Gi podreditve in prehodi garde",
     coach: "Žiga Očko",
-    level: "Začetniki & napredni",
+    level: "Vsi nivoji",
     location: "Tatami dvorana"
   },
 
@@ -224,7 +224,7 @@ const SCHEDULE_DATA = [
     title: "Odprt trening (Open Mat)",
     sub: "Prosti sparingi (BJJ, MMA, Boks)",
     coach: "Dežurni trener",
-    level: "Vsi člani kluba",
+    level: "Vsi člani",
     location: "Tatami dvorana"
   }
 ];
